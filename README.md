@@ -1,6 +1,6 @@
-# Is your birthday pallindrome?
+# Is your birthday palindrome?
 
-A VanillaJS app to check whether your birthday is pallindrome or not.
+A VanillaJS app to check whether your birthday is palindrome or not.
 
 ## Tech Stack
 * HTML
@@ -10,7 +10,7 @@ A VanillaJS app to check whether your birthday is pallindrome or not.
 ## Features
 1. Empty input validation.
 2. Output is based on the input date.
-3. Check for nearest pallindrome date if birthdate is not pallindrome.
+3. Check for nearest palindrome date if birthdate is not palindrome.
 
 ## Project setup
 1. Clone this repository 
