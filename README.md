@@ -1,4 +1,4 @@
-# Is your birthday a pallindrome?
+# Is your birthday pallindrome?
 
 A VanillaJS app to check whether your birthday is pallindrome or not.
 
